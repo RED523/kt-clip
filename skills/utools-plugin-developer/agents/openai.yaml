@@ -1,0 +1,4 @@
+interface:
+  display_name: "uTools 插件开发"
+  short_description: "基于最新官方文档开发、检查和发布 uTools 插件"
+  default_prompt: "使用 $utools-plugin-developer 基于最新官方文档实现一个 uTools 插件功能。"
